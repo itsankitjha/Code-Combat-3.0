@@ -3,5 +3,7 @@
 Deployed Link: https://meme-gen25.netlify.app/
 Github Link: https://github.com/itsankitjha/meme-generator.git
 
-To run app: npm start
-To build app: npm run build
+First install All modules: `npm install`
+
+To run app: `npm start`
+To build app: `npm run build`
